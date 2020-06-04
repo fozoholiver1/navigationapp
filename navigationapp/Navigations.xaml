@@ -6,10 +6,10 @@
              mc:Ignorable="d"
              x:Class="navigationapp.Navigations">
   <!--Pages can be added as references or inline-->
-    <ContentPage Title="Tab 1" >
+    <ContentPage Title="Tab 1" BackgroundColor="Chartreuse">
         <Label Text=" page1 inline" TextColor="Gray" 
               HorizontalOptions="Center"
-              VerticalOptions="Center" />
+              VerticalOptions="Center"  />
     </ContentPage>
     <ContentPage Title="Tab 2" />
   <ContentPage Title="Tab 3" />
